@@ -3,4 +3,5 @@
     - Planos;
     - Modelos de dados;
     - UML
+    - Formatos .DOC, .XLSX, .PPT, . ASTHA
     - etc...
